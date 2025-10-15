@@ -1,0 +1,18 @@
+# K? ho?ch h?c t?p trong 1 tu?n
+Ngày b?t ??u: 15/10/2025  
+Ngày k?t thúc: 22/10/2025
+
+
+
+1. Ngày 1 (Th? Hai): Ôn t?p l?i các l?nh Git c? b?n nh? init, add, commit, status.
+2. Ngày 2 (Th? Ba): H?c cách s? d?ng git log, git diff và git restore ?? ki?m tra thay ??i.
+3. Ngày 3 (Th? T?): Th?c hành t?o branch, merge và hi?u c? ch? fast-forward.
+4. Ngày 4 (Th? N?m): Làm quen v?i git reset, git revert, và checkout ?? khôi ph?c d? li?u.
+5. Ngày 5 (Th? Sáu): Th?c hành x? lý xung ??t khi merge (merge conflict).
+6. Ngày 6 (Th? B?y): H?c cách dùng git stash ?? l?u t?m thay ??i khi ?ang làm vi?c.
+7. Ngày 7 (Ch? Nh?t): T?o project nh? áp d?ng toàn b? ki?n th?c Git ?ã h?c.
+8. Ghi chú: M?i ngày dành ít nh?t 2 ti?ng th?c hành và ghi chép l?i k?t qu?.
+9. M?c tiêu: N?m v?ng quy trình làm vi?c c? b?n v?i Git và GitHub.
+10. K?t qu? mong ??i: Có th? t? tin s? d?ng Git trong các d? án th?c t?.
+
+
