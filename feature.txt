@@ -1,0 +1,5 @@
+- Mô tả: Thêm tính năng tìm kiếm trong project.
+- Input: từ khoá tìm kiếm.
+- Output: danh sách kết quả.
+- Hạn chế: chỉ tìm theo tên.
+- Ghi chú: cần unit tests.
