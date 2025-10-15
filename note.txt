@@ -2,4 +2,8 @@
 - Git giúp quản lý phiên bản.
 - Tôi thấy Git hơi khó lúc đầu.
 
+- Tôi muốn học thêm về merge conflict.
+- Tôi sẽ luyện tập mỗi ngày.
+
+
 
