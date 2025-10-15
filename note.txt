@@ -1,0 +1,5 @@
+- Git rất hữu ích.
+- Git giúp quản lý phiên bản.
+- Tôi thấy Git hơi khó lúc đầu.
+
+
