@@ -1,0 +1,19 @@
+Giới thiệu cá nhân:
+- Họ và tên :Nguyễn Hoàng Phúc
+- Lớp: DH22TIN05
+- MSSV :223245
+- Là sinh viên ngành Công nghệ Thông tin.
+- Năm sinh: 2004
+- Hiện đang học tại Đại học Nam Cần Thơ
+
+
+Sở thích:
+- Đọc sách
+- Cầu lông
+- Bóng đá
+
+Kỹ năng:
+- Lập trình Python
+- Git & GitHub
+- HTML/CSS
+
